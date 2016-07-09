@@ -51,6 +51,16 @@ main{
   margin-bottom: 50px;
 }
 
+.randomLine{
+  height: 300px;
+  border-left: 2px solid lightgrey;
+  float: left;
+}
+
+h2{
+  font-size: 2rem;
+}
+
 .secondimg{
   float: left;
   padding: 3px;
@@ -95,25 +105,16 @@ article > p {
   margin-bottom: 30px;
 }
 
+article{
+  margin-bottom: 120px;
+}
+
 nav{
   float: right;
 }
 
-h2{
-  font-size: 2rem;
-}
 
 a{
   text-decoration: none;
   color: orange;
-}
-
-.randomLine{
-  height: 300px;
-  border-left: 2px solid lightgrey;
-  float: left;
-}
-
-article{
-  margin-bottom: 120px;
 }
